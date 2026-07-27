@@ -20,7 +20,7 @@ The goal is to create a tool that allows organizations to:
 - Search and filtering
 - Export reports
 
-## Technologies
+##\ Tools
 
 - Python
 - Flask/FastAPI
@@ -34,20 +34,6 @@ The goal is to create a tool that allows organizations to:
 ## Project Status
 
 Prototype completed and attached
-
-## Folder Structure
-
-```
-Jijiya/
-├── notebooks/
-├── data/
-├── docs/
-├── static/
-├── templates/
-├── app.py
-├── requirements.txt
-└── README.md
-```
 
 ## Installation
 
