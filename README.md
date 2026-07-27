@@ -35,10 +35,20 @@ The goal is to create a tool that allows organizations to:
 
 Prototype completed and attached
 
+Folder structure
+
+MAT/
+│
+├── Data_analysis_jup.ipynb
+├── Jijiya_Reviewed.docx
+├── README.md
+├── maternite.zip
+└── anc_visits.csv
+
 ## Installation
 
 ```bash
-git clone https://github.com/Alizah17/jijiya.git
+git clone https://github.com/Alizah17/maternite.git
 
 cd Maternite
 
