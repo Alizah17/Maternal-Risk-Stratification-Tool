@@ -62,6 +62,7 @@ Doose Azege
 
 SIWES Intern
 
+https://ai.studio/apps/59b5ce61-eabc-40f7-9a36-612e4c5efb33
 
 
 This project is for educational and research purposes.
