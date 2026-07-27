@@ -1,6 +1,6 @@
 # Maternite
 
-Maternite is a stratification tool for maternal and neo-natal risk that is powered by Artificial intelligence. The platform enables users to collect, analyze, and visualize community data to improve planning, resource allocation, and monitoring.
+Maternite is a stratification tool for maternal and neo-natal risk that is powered by Artificial intelligence. The platform enables users to collect, analyze, and visualize patients ante-nantal data to facilitate informed decision-making and curb maternal mortality.
 
 # Project Overview
 
@@ -20,7 +20,7 @@ The goal is to create a tool that allows organizations to:
 - Search and filtering
 - Export reports
 
-##\ Tools
+## Tools
 
 - Python
 - Flask/FastAPI
@@ -38,14 +38,14 @@ Prototype completed and attached
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/jijiya.git
+git clone https://github.com/Alizah17/jijiya.git
 
-cd jijiya
+cd Maternite
 
 pip install -r requirements.txt
 
 python app.py
-```
+
 ## Author
 
 Doose Azege
